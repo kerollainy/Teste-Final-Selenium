@@ -1,0 +1,12 @@
+io\cucumber\avaliacao\Steps\PriceOptionSteps.class
+io\cucumber\avaliacao\Pages\InsurantPage.class
+io\cucumber\avaliacao\Servicos\Configuracao.class
+io\cucumber\avaliacao\Pages\SendQuotePage.class
+io\cucumber\avaliacao\Pages\PriceOptionPage.class
+io\cucumber\avaliacao\Pages\ClientesPages.class
+io\cucumber\avaliacao\RunCucumberTest.class
+io\cucumber\avaliacao\Pages\VehiclePage.class
+io\cucumber\avaliacao\Steps\InsurantSteps.class
+io\cucumber\avaliacao\Pages\ProductPage.class
+io\cucumber\avaliacao\Steps\SendQuoteSteps.class
+io\cucumber\avaliacao\Steps\VehicleSteps.class
